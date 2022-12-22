@@ -1,4 +1,4 @@
-package at.int32.example;
+package com.exampl.example;
 
 import static org.junit.Assert.assertTrue;
 
