@@ -1,4 +1,4 @@
-name: docker image build 
+name: java maven 
 env:
       # Container Image Name // update it as per project name.
       image_name: "java-maven"
