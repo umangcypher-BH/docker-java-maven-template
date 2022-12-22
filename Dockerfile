@@ -1,4 +1,4 @@
-FROM maven:3.6.3-jdk-8-slim as build
+FROM maven:3.8.6-jdk-8-slim as build
 WORKDIR /app
 COPY . /app
 RUN mvn install
