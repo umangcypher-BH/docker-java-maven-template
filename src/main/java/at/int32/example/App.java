@@ -1,4 +1,4 @@
-package at.int32.example;
+package com.exampl.example;
 
 /**
  * Hello world!
